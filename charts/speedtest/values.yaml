@@ -19,6 +19,7 @@ serviceMonitor:
   scrapeTimeout:
   namespace:
   additionalLabels: {}
+  path:
 
 podAnnotations: {}
 
