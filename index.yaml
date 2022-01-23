@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  speedtest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-23T08:22:08.99300297Z"
+    description: A Helm chart to export speedtest metrics to prometheus
+    digest: a7cfcb1757666f28449fcf315c519f9ac89bd474464b3055c2f6afce84d1013b
+    name: speedtest
+    type: application
+    urls:
+    - https://github.com/holzeis/speedtest-helm/releases/download/speedtest-0.1.0/speedtest-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-23T08:22:08.99300797Z"
